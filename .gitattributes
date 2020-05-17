@@ -1,0 +1,28 @@
+# Default End of Line (Unix)
+* text eol=lf
+
+*.txt text
+*.xml text
+
+# Windows
+*.bat eol=crlf
+*.cmd eol=crlf
+*.exe binary
+
+# Images
+*.svg text
+*.png binary
+*.jpg binary
+*.git binary
+*.ico binary
+
+# Fonts
+*.ttf binary
+*.eof binary
+*.woff binary
+*.woff2 binary
+
+# Ignore Files to export
+/.github export-ignore
+CNAME    export-ignore
+.gitattributes export-ignore
