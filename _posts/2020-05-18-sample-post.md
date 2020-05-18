@@ -1,5 +1,5 @@
 ---
-layout: master
+layout: post
 title: Sample Post
 category: [demo]
 tags: [sample]
