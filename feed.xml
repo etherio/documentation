@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="https://docs.etherio.net/feed.xml" rel="self" type="application/atom+xml" /><link href="https://docs.etherio.net/" rel="alternate" type="text/html" /><updated>2020-05-18T07:31:14+00:00</updated><id>https://docs.etherio.net/feed.xml</id><title type="html">Etherio</title><subtitle>Etherio Documentation</subtitle><entry><title type="html">Create from API</title><link href="https://docs.etherio.net/2020/05/18/create-from-api.html" rel="alternate" type="text/html" title="Create from API" /><published>2020-05-18T00:00:00+00:00</published><updated>2020-05-18T00:00:00+00:00</updated><id>https://docs.etherio.net/2020/05/18/create-from-api</id><content type="html" xml:base="https://docs.etherio.net/2020/05/18/create-from-api.html">&lt;h1 id=&quot;create-from-api&quot;&gt;Create from API&lt;/h1&gt;
+
+&lt;h2 id=&quot;lorem-isum&quot;&gt;Lorem Isum&lt;/h2&gt;</content><author><name></name></author><summary type="html">Create from API</summary></entry><entry><title type="html">Sample Post</title><link href="https://docs.etherio.net/demo/2020/05/18/sample-post.html" rel="alternate" type="text/html" title="Sample Post" /><published>2020-05-18T00:00:00+00:00</published><updated>2020-05-18T00:00:00+00:00</updated><id>https://docs.etherio.net/demo/2020/05/18/sample-post</id><content type="html" xml:base="https://docs.etherio.net/demo/2020/05/18/sample-post.html">&lt;h1 id=&quot;sample-post&quot;&gt;Sample Post&lt;/h1&gt;
+
+&lt;h2 id=&quot;contents&quot;&gt;Contents&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Introduction&lt;/li&gt;
+  &lt;li&gt;Something
+    &lt;ul&gt;
+      &lt;li&gt;More…&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Conclusion&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;code-block&quot;&gt;Code Block&lt;/h2&gt;
+
+&lt;div class=&quot;language-php highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;cp&quot;&gt;&amp;lt;?php&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;require&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;__DIR__&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'/../vendor/autoload.php'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;lorem-ipsum&quot;&gt;Lorem Ipsum&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;and &lt;strong&gt;this&lt;/strong&gt; is some quote…&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name></name></author><category term="[&quot;demo&quot;]" /><category term="sample" /><summary type="html">Sample Post</summary></entry></feed>
