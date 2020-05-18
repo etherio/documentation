@@ -63,6 +63,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
+  - SECURITY.md
 
 plugins:
   - jekyll-paginate
